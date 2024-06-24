@@ -70,6 +70,7 @@ Now, let's rebuild the original script using the characters inside of the arrays
 ```ps1
 # It can be seen that the array used to "pull" each character is random
 iex (($LJAHS[87 - 48],$LJAHS[- 16 + 103],$tVAMg[75 + 10],...) -JOIN "")
+#            e               c                  h
 ```
 
 In short, while the original is very simple and readable
